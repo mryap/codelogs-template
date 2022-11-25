@@ -9,7 +9,7 @@
 ## To investigate
 
 SEO implication if website is hosted on several  Preview-specific and Build-specific URLs  
-
+Exploring a new website deployment workflow. Source code (html, js css) on Github, Netlify as CMS, deploy live on Firebase hosting. Is there any SEO implications? Cos there a couple of  Preview-specific and Build-specific URLs. Thanks
 
 ## Learned today
 
